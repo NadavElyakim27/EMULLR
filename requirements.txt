@@ -1,0 +1,7 @@
+matplotlib==3.2.2
+moviepy==1.0.3
+numpy==1.19.2
+opencv_contrib_python==4.5.4.58
+pandas==1.0.5
+scikit_learn==1.2.0
+scipy==1.4.1
