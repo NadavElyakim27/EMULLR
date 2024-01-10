@@ -19,7 +19,7 @@ change_points_list = model.fit()
 ```
 
 ## [Notebook](https://github.com/ok123123123/Multi_Dim_CP_Detection/blob/main/EMULLR.ipynb)
-A notebook that demonstrates use EMULLR algorithm on a real data set taken from the VIA company and then 
+A notebook that demonstrates use EMULLR algorithm on a real data set taken from the *** company and then 
  presents various experiments carried out during the development of the algorithm on generated data set.<br> 
 
 ## Thanks for visiting
