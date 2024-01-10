@@ -5,7 +5,7 @@
 ## Introduction
 This repo offers the EMULLR algorithm which is an algorithm for detectiong change points in a multi-channel time series data set using a log likelihood ratio test.<br>
 More information can be found in our [paper](Change_points_detection_in_multichannels_time_series__Final_Project.pdf).<br>
-The algorithm was developed by Nadav Elyakim (<27nadav@gmail.com>) and Or Katz (<katzor20@gmail.com>)  as part of the MSc graduation project at Reichman University in collaboration with VIA Transportation.
+The algorithm was developed by Nadav Elyakim (<27nadav@gmail.com>) and Or Katz (<katzor20@gmail.com>)  as part of the MSc graduation project at Reichman University in collaboration with *** Company.
 
 ## Running the model
 In order run the model:<br>
