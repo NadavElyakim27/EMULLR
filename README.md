@@ -8,7 +8,7 @@ More information can be found in our [paper](Change_points_detection_in_multicha
 The algorithm was developed by Nadav Elyakim (<27nadav@gmail.com>) and Or Katz (<katzor20@gmail.com>)  as part of the MSc graduation project at Reichman University in collaboration with *** Company.
 
 ## Running the model
-In order run the model:<br>
+In order to run the model:<br>
 ```
 !clone https://github.com/ok123123123/Multi_Dim_CP_Detection.git
 
