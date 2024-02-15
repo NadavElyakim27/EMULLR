@@ -23,4 +23,4 @@ A notebook that demonstrates use EMULLR algorithm on a real data set taken from 
  presents various experiments carried out during the development of the algorithm on generated data set.<br> 
 
 ## Thanks for visiting
-![Visitors]https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FNadavElyakim27%2FEMULLR
+![Visitors](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FNadavElyakim27%2FEMULLR)
