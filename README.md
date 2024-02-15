@@ -22,5 +22,4 @@ change_points_list = model.fit()
 A notebook that demonstrates use EMULLR algorithm on a real data set taken from the *** company and then 
  presents various experiments carried out during the development of the algorithm on generated data set.<br> 
 
-![visitors](https://hit.yhype.me/github/profile?user_id=99011244)<br/>
 ## Thanks for visiting
