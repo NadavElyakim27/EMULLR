@@ -23,6 +23,3 @@ A notebook that demonstrates use EMULLR algorithm on a real data set taken from 
  presents various experiments carried out during the development of the algorithm on generated data set.<br> 
 
 ## Thanks for visiting
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=NadavElyakim27.EMULLR.issue.1&left_color=green&right_color=red)
-
