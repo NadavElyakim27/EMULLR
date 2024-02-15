@@ -24,5 +24,5 @@ A notebook that demonstrates use EMULLR algorithm on a real data set taken from 
 
 ## Thanks for visiting
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/NadavElyakim27/EMULLR.git&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=NadavElyakim27/EMULLR.git&left_color=green&right_color=red)
 
