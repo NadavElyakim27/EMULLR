@@ -10,7 +10,7 @@ The algorithm was developed by Nadav Elyakim (<27nadav@gmail.com>) and Or Katz (
 ## Running the model
 In order to run the model:<br>
 ```
-!clone https://github.com/ok123123123/Multi_Dim_CP_Detection.git
+!clone https://github.com/NadavElyakim27/EMULLR.git
 
 !pip install -r requirements.txt
 from src.model import ChangePointDetection
@@ -24,4 +24,5 @@ A notebook that demonstrates use EMULLR algorithm on a real data set taken from 
 
 ## Thanks for visiting
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/NadavElyakim27/EMULLR.git&left_color=green&right_color=red)
 
